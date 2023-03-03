@@ -1,6 +1,9 @@
 ---
-title: Bitte noch etwas Geduld!
+title: Home
+layout: default
 ---
+
+# Bitte noch etwas Geduld!
 
 Wir entwickeln eine neue Website!
 
