@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Demo Code</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.slim.js"></script>
+    <script type="text/javascript" src="oenace-check.js"></script>
+    <script type="text/javascript" src="iban-check.js"></script>
+    <style>
+        body {
+            font-family: Source Sans Pro, Roboto, sans-serif;
+        }
+
+        #oenace_output {
+            margin: 3px;
+            padding: 6px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <label>
+            OENACE Code (5-stellig) eingeben:<br />
+            <input type="text" id="oenace_input" />
+        </label>
+        <p id="oenace_output"></p>
+    </div>
+    <div>
+        <label>
+            IBAN eingeben (derzeit alle, nicht nur SEPA):<br />
+            <input type="text" id="iban_input" />
+        </label>
+        <p id="iban_output"></p>
+    </div>
+    <div>
+        Link Sammlung:
+        <ul>
+            <li><a href="https://www.bankaustria.at/en/sepa.jsp">SEPA Info BA</a></li>
+        </ul>
+
+    </div>
+    <script>
+        $(document).ready(function () {
+            $('#oenace_input').on('input', function () {
+                const inputValue = $(this).val();
+                const isValid = allowedOenace(inputValue);
+
+                if (isValid === true) {
+                    $('#oenace_output').text('OENACE zulässig! ' + oenace3digits[inputValue.substring(0, 3)].titel);
+                    $('#oenace_output').css('background-color', 'green');
+                } else if (isValid === false) {
+                    $('#oenace_output').text('OENACE nicht zulässig. ' + oenace3digits[inputValue.substring(0, 3)].titel);
+                    $('#oenace_output').css('background-color', 'red');
+                } else {
+                    $('#oenace_output').text('');
+                    $('#oenace_output').css('background-color', '');
+                }
+            });
+
+            $('#iban_input').on('input', function () {
+                const inputValue = $(this).val();
+                const isValid = isValidIBANNumber(inputValue);
+
+                if (isValid === true) {
+                    $('#iban_output').text('IBAN OK!');
+                    $('#iban_output').css('background-color', 'green');
+                } else if (isValid === false) {
+                    $('#iban_output').text('IBAN ungültig.');
+                    $('#iban_output').css('background-color', 'red');
+                } else {
+                    $('#iban_output').text('IBAN zu kurz oder zu lang');
+                    $('#iban_output').css('background-color', '');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
