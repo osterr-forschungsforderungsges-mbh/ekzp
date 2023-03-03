@@ -1,5 +1,6 @@
-# Bitte noch etwas Geduld!
-
+---
+title: Bitte noch etwas Geduld!
+---
 
 Wir entwickeln eine neue Website!
 
