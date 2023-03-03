@@ -1,0 +1,266 @@
+{
+  "01": {
+    "titel": "Landwirtschaft, Jagd und damit verbundene Tätigkeiten"
+  },
+  "02": {
+    "titel": "Forstwirtschaft und Holzeinschlag"
+  },
+  "03": {
+    "titel": "Fischerei und Aquakultur"
+  },
+  "05": {
+    "titel": "Kohlenbergbau"
+  },
+  "06": {
+    "titel": "Gewinnung von Erdöl und Erdgas"
+  },
+  "07": {
+    "titel": "Erzbergbau"
+  },
+  "08": {
+    "titel": "Gewinnung von Steinen und Erden, sonstiger Bergbau"
+  },
+  "09": {
+    "titel": "Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden"
+  },
+  "10": {
+    "titel": "Herstellung von Nahrungs- und Futtermitteln"
+  },
+  "11": {
+    "titel": "Getränkeherstellung"
+  },
+  "12": {
+    "titel": "Tabakverarbeitung"
+  },
+  "13": {
+    "titel": "Herstellung von Textilien"
+  },
+  "14": {
+    "titel": "Herstellung von Bekleidung"
+  },
+  "15": {
+    "titel": "Herstellung von Leder, Lederwaren und Schuhen"
+  },
+  "16": {
+    "titel": "Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)"
+  },
+  "17": {
+    "titel": "Herstellung von Papier, Pappe und Waren daraus"
+  },
+  "18": {
+    "titel": "Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+  },
+  "19": {
+    "titel": "Kokerei und Mineralölverarbeitung"
+  },
+  "20": {
+    "titel": "Herstellung von chemischen Erzeugnissen"
+  },
+  "21": {
+    "titel": "Herstellung von pharmazeutischen Erzeugnissen"
+  },
+  "22": {
+    "titel": "Herstellung von Gummi- und Kunststoffwaren"
+  },
+  "23": {
+    "titel": "Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden"
+  },
+  "24": {
+    "titel": "Metallerzeugung und -bearbeitung"
+  },
+  "25": {
+    "titel": "Herstellung von Metallerzeugnissen"
+  },
+  "26": {
+    "titel": "Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen"
+  },
+  "27": {
+    "titel": "Herstellung von elektrischen Ausrüstungen"
+  },
+  "28": {
+    "titel": "Maschinenbau"
+  },
+  "29": {
+    "titel": "Herstellung von Kraftwagen und Kraftwagenteilen"
+  },
+  "30": {
+    "titel": "Sonstiger Fahrzeugbau"
+  },
+  "31": {
+    "titel": "Herstellung von Möbeln"
+  },
+  "32": {
+    "titel": "Herstellung von sonstigen Waren"
+  },
+  "33": {
+    "titel": "Reparatur und Installation von Maschinen und Ausrüstungen"
+  },
+  "35": {
+    "titel": "Energieversorgung"
+  },
+  "36": {
+    "titel": "Wasserversorgung"
+  },
+  "37": {
+    "titel": "Abwasserentsorgung"
+  },
+  "38": {
+    "titel": "Sammlung, Behandlung und Beseitigung von Abfällen; Rückgewinnung"
+  },
+  "39": {
+    "titel": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
+  },
+  "41": {
+    "titel": "Hochbau"
+  },
+  "42": {
+    "titel": "Tiefbau"
+  },
+  "43": {
+    "titel": "Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe"
+  },
+  "45": {
+    "titel": "Handel mit Kraftfahrzeugen; Instandhaltung und Reparatur von Kraftfahrzeugen"
+  },
+  "46": {
+    "titel": "Großhandel (ohne Handel mit Kraftfahrzeugen und Krafträdern)"
+  },
+  "47": {
+    "titel": "Einzelhandel (ohne Handel mit Kraftfahrzeugen)"
+  },
+  "49": {
+    "titel": "Landverkehr und Transport in Rohrfernleitungen"
+  },
+  "50": {
+    "titel": "Schifffahrt"
+  },
+  "51": {
+    "titel": "Luftfahrt"
+  },
+  "52": {
+    "titel": "Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr"
+  },
+  "53": {
+    "titel": "Post-, Kurier- und Expressdienste"
+  },
+  "55": {
+    "titel": "Beherbergung"
+  },
+  "56": {
+    "titel": "Gastronomie"
+  },
+  "58": {
+    "titel": "Verlagswesen"
+  },
+  "59": {
+    "titel": "Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen; Kinos; Tonstudios und Verlegen von Musik"
+  },
+  "60": {
+    "titel": "Rundfunkveranstalter"
+  },
+  "61": {
+    "titel": "Telekommunikation"
+  },
+  "62": {
+    "titel": "Erbringung von Dienstleistungen der Informationstechnologie"
+  },
+  "63": {
+    "titel": "Informationsdienstleistungen"
+  },
+  "64": {
+    "titel": "Erbringung von Finanzdienstleistungen"
+  },
+  "65": {
+    "titel": "Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)"
+  },
+  "66": {
+    "titel": "Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten"
+  },
+  "68": {
+    "titel": "Grundstücks- und Wohnungswesen"
+  },
+  "69": {
+    "titel": "Rechts- und Steuerberatung, Wirtschaftsprüfung"
+  },
+  "70": {
+    "titel": "Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung"
+  },
+  "71": {
+    "titel": "Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung"
+  },
+  "72": {
+    "titel": "Forschung und Entwicklung"
+  },
+  "73": {
+    "titel": "Werbung und Marktforschung"
+  },
+  "74": {
+    "titel": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten"
+  },
+  "75": {
+    "titel": "Veterinärwesen"
+  },
+  "77": {
+    "titel": "Vermietung von beweglichen Sachen"
+  },
+  "78": {
+    "titel": "Vermittlung und Überlassung von Arbeitskräften"
+  },
+  "79": {
+    "titel": "Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen"
+  },
+  "80": {
+    "titel": "Wach- und Sicherheitsdienste sowie Detekteien"
+  },
+  "81": {
+    "titel": "Gebäudebetreuung; Garten- und Landschaftsbau"
+  },
+  "82": {
+    "titel": "Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen a. n. g."
+  },
+  "84": {
+    "titel": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung"
+  },
+  "85": {
+    "titel": "Erziehung und Unterricht"
+  },
+  "86": {
+    "titel": "Gesundheitswesen"
+  },
+  "87": {
+    "titel": "Heime (ohne Erholungs- und Ferienheime)"
+  },
+  "88": {
+    "titel": "Sozialwesen (ohne Heime)"
+  },
+  "90": {
+    "titel": "Kreative, künstlerische und unterhaltende Tätigkeiten"
+  },
+  "91": {
+    "titel": "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
+  },
+  "92": {
+    "titel": "Spiel-, Wett- und Lotteriewesen"
+  },
+  "93": {
+    "titel": "Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung"
+  },
+  "94": {
+    "titel": "Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen (ohne Sozialwesen und Sport)"
+  },
+  "95": {
+    "titel": "Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern"
+  },
+  "96": {
+    "titel": "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
+  },
+  "97": {
+    "titel": "Private Haushalte mit Hauspersonal"
+  },
+  "98": {
+    "titel": "Herstellung von Waren und Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+  },
+  "99": {
+    "titel": "Exterritoriale Organisationen und Körperschaften"
+  }
+}
