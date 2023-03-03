@@ -49,10 +49,13 @@
                 const isValid = allowedOenace(inputValue);
 
                 if (isValid === true) {
-                    $('#oenace_output').text('OENACE zulässig! ' + oenace3digits[inputValue.substring(0, 3)].titel);
+                    $('#oenace_output').text('OENACE zulässig! ' +
+                        (oenace3digits[inputValue.substring(0, 3)] ? oenace3digits[inputValue.substring(0, 3)].titel : "Nicht existierender OENACE"));
                     $('#oenace_output').css('background-color', 'green');
                 } else if (isValid === false) {
-                    $('#oenace_output').text('OENACE nicht zulässig. ' + oenace3digits[inputValue.substring(0, 3)].titel);
+                    $('#oenace_output').text('OENACE nicht zulässig. ' +
+                        (oenace3digits[inputValue.substring(0, 3)] ? oenace3digits[inputValue.substring(0, 3)].titel : "Nicht existierender OENACE"));
+
                     $('#oenace_output').css('background-color', 'red');
                 } else {
                     $('#oenace_output').text('');
