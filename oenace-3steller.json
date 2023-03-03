@@ -1,818 +1,818 @@
 {
   "011": {
-    "Titel": "Anbau einjähriger Pflanzen"
+    "titel": "Anbau einjähriger Pflanzen"
   },
   "012": {
-    "Titel": "Anbau mehrjähriger Pflanzen"
+    "titel": "Anbau mehrjähriger Pflanzen"
   },
   "013": {
-    "Titel": "Betrieb von Baumschulen, sowie Anbau von Pflanzen zu Vermehrungszwecken"
+    "titel": "Betrieb von Baumschulen, sowie Anbau von Pflanzen zu Vermehrungszwecken"
   },
   "014": {
-    "Titel": "Tierhaltung"
+    "titel": "Tierhaltung"
   },
   "015": {
-    "Titel": "Gemischte Landwirtschaft"
+    "titel": "Gemischte Landwirtschaft"
   },
   "016": {
-    "Titel": "Erbringung von landwirtschaftlichen Dienstleistungen"
+    "titel": "Erbringung von landwirtschaftlichen Dienstleistungen"
   },
   "017": {
-    "Titel": "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
+    "titel": "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
   },
   "021": {
-    "Titel": "Forstwirtschaft"
+    "titel": "Forstwirtschaft"
   },
   "022": {
-    "Titel": "Holzeinschlag"
+    "titel": "Holzeinschlag"
   },
   "023": {
-    "Titel": "Sammeln von wildwachsenden Produkten (ohne Holz)"
+    "titel": "Sammeln von wildwachsenden Produkten (ohne Holz)"
   },
   "024": {
-    "Titel": "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
+    "titel": "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
   },
   "031": {
-    "Titel": "Fischerei"
+    "titel": "Fischerei"
   },
   "032": {
-    "Titel": "Aquakultur"
+    "titel": "Aquakultur"
   },
   "051": {
-    "Titel": "Steinkohlenbergbau"
+    "titel": "Steinkohlenbergbau"
   },
   "052": {
-    "Titel": "Braunkohlenbergbau"
+    "titel": "Braunkohlenbergbau"
   },
   "061": {
-    "Titel": "Gewinnung von Erdöl"
+    "titel": "Gewinnung von Erdöl"
   },
   "062": {
-    "Titel": "Gewinnung von Erdgas"
+    "titel": "Gewinnung von Erdgas"
   },
   "071": {
-    "Titel": "Eisenerzbergbau"
+    "titel": "Eisenerzbergbau"
   },
   "072": {
-    "Titel": "NE-Metallerzbergbau"
+    "titel": "NE-Metallerzbergbau"
   },
   "081": {
-    "Titel": "Gewinnung von Natursteinen, Kies, Sand, Ton und Kaolin"
+    "titel": "Gewinnung von Natursteinen, Kies, Sand, Ton und Kaolin"
   },
   "089": {
-    "Titel": "Sonstiger Bergbau; Gewinnung von Steinen und Erden a.n.g."
+    "titel": "Sonstiger Bergbau; Gewinnung von Steinen und Erden a.n.g."
   },
   "091": {
-    "Titel": "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
+    "titel": "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
   },
   "099": {
-    "Titel": "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
+    "titel": "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
   },
   "101": {
-    "Titel": "Schlachten und Fleischverarbeitung"
+    "titel": "Schlachten und Fleischverarbeitung"
   },
   "102": {
-    "Titel": "Fischverarbeitung"
+    "titel": "Fischverarbeitung"
   },
   "103": {
-    "Titel": "Obst- und Gemüseverarbeitung"
+    "titel": "Obst- und Gemüseverarbeitung"
   },
   "104": {
-    "Titel": "Herstellung von pflanzlichen und tierischen Ölen und Fetten"
+    "titel": "Herstellung von pflanzlichen und tierischen Ölen und Fetten"
   },
   "105": {
-    "Titel": "Milchverarbeitung"
+    "titel": "Milchverarbeitung"
   },
   "106": {
-    "Titel": "Mahl- und Schälmühlen, Herstellung von Stärke und Stärkeerzeugnissen"
+    "titel": "Mahl- und Schälmühlen, Herstellung von Stärke und Stärkeerzeugnissen"
   },
   "107": {
-    "Titel": "Herstellung von Back- und Teigwaren"
+    "titel": "Herstellung von Back- und Teigwaren"
   },
   "108": {
-    "Titel": "Herstellung von sonstigen Nahrungsmitteln"
+    "titel": "Herstellung von sonstigen Nahrungsmitteln"
   },
   "109": {
-    "Titel": "Herstellung von Futtermitteln"
+    "titel": "Herstellung von Futtermitteln"
   },
   "110": {
-    "Titel": "Getränkeherstellung"
+    "titel": "Getränkeherstellung"
   },
   "120": {
-    "Titel": "Tabakverarbeitung"
+    "titel": "Tabakverarbeitung"
   },
   "131": {
-    "Titel": "Spinnstoffaufbereitung und Spinnerei"
+    "titel": "Spinnstoffaufbereitung und Spinnerei"
   },
   "132": {
-    "Titel": "Weberei"
+    "titel": "Weberei"
   },
   "133": {
-    "Titel": "Veredlung von Textilien und Bekleidung"
+    "titel": "Veredlung von Textilien und Bekleidung"
   },
   "139": {
-    "Titel": "Herstellung von sonstigen Textilwaren"
+    "titel": "Herstellung von sonstigen Textilwaren"
   },
   "141": {
-    "Titel": "Herstellung von Bekleidung (ohne Pelzbekleidung)"
+    "titel": "Herstellung von Bekleidung (ohne Pelzbekleidung)"
   },
   "142": {
-    "Titel": "Herstellung von Pelzwaren"
+    "titel": "Herstellung von Pelzwaren"
   },
   "143": {
-    "Titel": "Herstellung von Bekleidung aus gewirktem und gestricktem Stoff"
+    "titel": "Herstellung von Bekleidung aus gewirktem und gestricktem Stoff"
   },
   "151": {
-    "Titel": "Herstellung von Leder und Lederwaren (ohne Herstellung von Lederbekleidung)"
+    "titel": "Herstellung von Leder und Lederwaren (ohne Herstellung von Lederbekleidung)"
   },
   "152": {
-    "Titel": "Herstellung von Schuhen"
+    "titel": "Herstellung von Schuhen"
   },
   "161": {
-    "Titel": "Säge-, Hobel- und Holzimprägnierwerke"
+    "titel": "Säge-, Hobel- und Holzimprägnierwerke"
   },
   "162": {
-    "Titel": "Herstellung von sonstigen Holz-, Kork-, Flecht- und Korbwaren (ohne Möbel)"
+    "titel": "Herstellung von sonstigen Holz-, Kork-, Flecht- und Korbwaren (ohne Möbel)"
   },
   "171": {
-    "Titel": "Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe"
+    "titel": "Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe"
   },
   "172": {
-    "Titel": "Herstellung von Waren aus Papier, Karton und Pappe"
+    "titel": "Herstellung von Waren aus Papier, Karton und Pappe"
   },
   "181": {
-    "Titel": "Herstellung von Druckerzeugnissen"
+    "titel": "Herstellung von Druckerzeugnissen"
   },
   "182": {
-    "Titel": "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+    "titel": "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
   },
   "191": {
-    "Titel": "Kokerei"
+    "titel": "Kokerei"
   },
   "192": {
-    "Titel": "Mineralölverarbeitung"
+    "titel": "Mineralölverarbeitung"
   },
   "201": {
-    "Titel": "Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffverbindungen, Kunststoffen in Primärformen und synthetischem Kautschuk in Primärformen"
+    "titel": "Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffverbindungen, Kunststoffen in Primärformen und synthetischem Kautschuk in Primärformen"
   },
   "202": {
-    "Titel": "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
+    "titel": "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
   },
   "203": {
-    "Titel": "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
+    "titel": "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
   },
   "204": {
-    "Titel": "Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen"
+    "titel": "Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen"
   },
   "205": {
-    "Titel": "Herstellung von sonstigen chemischen Erzeugnissen"
+    "titel": "Herstellung von sonstigen chemischen Erzeugnissen"
   },
   "206": {
-    "Titel": "Herstellung von Chemiefasern"
+    "titel": "Herstellung von Chemiefasern"
   },
   "211": {
-    "Titel": "Herstellung von pharmazeutischen Grundstoffen"
+    "titel": "Herstellung von pharmazeutischen Grundstoffen"
   },
   "212": {
-    "Titel": "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
+    "titel": "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
   },
   "221": {
-    "Titel": "Herstellung von Gummiwaren"
+    "titel": "Herstellung von Gummiwaren"
   },
   "222": {
-    "Titel": "Herstellung von Kunststoffwaren"
+    "titel": "Herstellung von Kunststoffwaren"
   },
   "231": {
-    "Titel": "Herstellung von Glas und Glaswaren"
+    "titel": "Herstellung von Glas und Glaswaren"
   },
   "232": {
-    "Titel": "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
+    "titel": "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
   },
   "233": {
-    "Titel": "Herstellung von keramischen Baumaterialien"
+    "titel": "Herstellung von keramischen Baumaterialien"
   },
   "234": {
-    "Titel": "Herstellung von sonstigen Porzellan- und keramischen Erzeugnissen"
+    "titel": "Herstellung von sonstigen Porzellan- und keramischen Erzeugnissen"
   },
   "235": {
-    "Titel": "Herstellung von Zement, Kalk und gebranntem Gips"
+    "titel": "Herstellung von Zement, Kalk und gebranntem Gips"
   },
   "236": {
-    "Titel": "Herstellung von Erzeugnissen aus Beton, Zement und Gips"
+    "titel": "Herstellung von Erzeugnissen aus Beton, Zement und Gips"
   },
   "237": {
-    "Titel": "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a.n.g."
+    "titel": "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a.n.g."
   },
   "239": {
-    "Titel": "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage sowie sonstigen Erzeugnissen aus nicht metallischen Mineralien a.n.g."
+    "titel": "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage sowie sonstigen Erzeugnissen aus nicht metallischen Mineralien a.n.g."
   },
   "241": {
-    "Titel": "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
+    "titel": "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
   },
   "242": {
-    "Titel": "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
+    "titel": "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
   },
   "243": {
-    "Titel": "Sonstige erste Bearbeitung von Eisen und Stahl"
+    "titel": "Sonstige erste Bearbeitung von Eisen und Stahl"
   },
   "244": {
-    "Titel": "Erzeugung und erste Bearbeitung von NE-Metallen"
+    "titel": "Erzeugung und erste Bearbeitung von NE-Metallen"
   },
   "245": {
-    "Titel": "Gießereien"
+    "titel": "Gießereien"
   },
   "251": {
-    "Titel": "Stahl- und Leichtmetallbau"
+    "titel": "Stahl- und Leichtmetallbau"
   },
   "252": {
-    "Titel": "Herstellung von Metalltanks und -behältern; Herstellung von Heizkörpern und -kesseln für Zentralheizungen"
+    "titel": "Herstellung von Metalltanks und -behältern; Herstellung von Heizkörpern und -kesseln für Zentralheizungen"
   },
   "253": {
-    "Titel": "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
+    "titel": "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
   },
   "254": {
-    "Titel": "Herstellung von Waffen und Munition"
+    "titel": "Herstellung von Waffen und Munition"
   },
   "255": {
-    "Titel": "Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen"
+    "titel": "Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen"
   },
   "256": {
-    "Titel": "Oberflächenveredlung und Wärmebehandlung; Mechanik a.n.g."
+    "titel": "Oberflächenveredlung und Wärmebehandlung; Mechanik a.n.g."
   },
   "257": {
-    "Titel": "Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen"
+    "titel": "Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen"
   },
   "259": {
-    "Titel": "Herstellung von sonstigen Metallwaren"
+    "titel": "Herstellung von sonstigen Metallwaren"
   },
   "261": {
-    "Titel": "Herstellung von elektronischen Bauelementen und Leiterplatten"
+    "titel": "Herstellung von elektronischen Bauelementen und Leiterplatten"
   },
   "262": {
-    "Titel": "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
+    "titel": "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
   },
   "263": {
-    "Titel": "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
+    "titel": "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
   },
   "264": {
-    "Titel": "Herstellung von Geräten der Unterhaltungselektronik"
+    "titel": "Herstellung von Geräten der Unterhaltungselektronik"
   },
   "265": {
-    "Titel": "Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen; Herstellung von Uhren"
+    "titel": "Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen; Herstellung von Uhren"
   },
   "266": {
-    "Titel": "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
+    "titel": "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
   },
   "267": {
-    "Titel": "Herstellung von optischen und fotografischen Instrumenten und Geräten"
+    "titel": "Herstellung von optischen und fotografischen Instrumenten und Geräten"
   },
   "268": {
-    "Titel": "Herstellung von magnetischen und optischen Datenträgern"
+    "titel": "Herstellung von magnetischen und optischen Datenträgern"
   },
   "271": {
-    "Titel": "Herstellung von Elektromotoren, Generatoren, Transformatoren, Elektrizitätsverteilungs- und -schalteinrichtungen"
+    "titel": "Herstellung von Elektromotoren, Generatoren, Transformatoren, Elektrizitätsverteilungs- und -schalteinrichtungen"
   },
   "272": {
-    "Titel": "Herstellung von Batterien und Akkumulatoren"
+    "titel": "Herstellung von Batterien und Akkumulatoren"
   },
   "273": {
-    "Titel": "Herstellung von Kabeln und elektrischem Installationsmaterial"
+    "titel": "Herstellung von Kabeln und elektrischem Installationsmaterial"
   },
   "274": {
-    "Titel": "Herstellung von elektrischen Lampen und Leuchten"
+    "titel": "Herstellung von elektrischen Lampen und Leuchten"
   },
   "275": {
-    "Titel": "Herstellung von Haushaltsgeräten"
+    "titel": "Herstellung von Haushaltsgeräten"
   },
   "279": {
-    "Titel": "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a.n.g."
+    "titel": "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a.n.g."
   },
   "281": {
-    "Titel": "Herstellung von nicht wirtschaftszweigspezifischen Maschinen"
+    "titel": "Herstellung von nicht wirtschaftszweigspezifischen Maschinen"
   },
   "282": {
-    "Titel": "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen"
+    "titel": "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen"
   },
   "283": {
-    "Titel": "Herstellung von land- und forstwirtschaftlichen Maschinen"
+    "titel": "Herstellung von land- und forstwirtschaftlichen Maschinen"
   },
   "284": {
-    "Titel": "Herstellung von Werkzeugmaschinen"
+    "titel": "Herstellung von Werkzeugmaschinen"
   },
   "289": {
-    "Titel": "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige"
+    "titel": "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige"
   },
   "291": {
-    "Titel": "Herstellung von Kraftwagen und Kraftwagenmotoren"
+    "titel": "Herstellung von Kraftwagen und Kraftwagenmotoren"
   },
   "292": {
-    "Titel": "Herstellung von Karosserien, Aufbauten und Anhängern"
+    "titel": "Herstellung von Karosserien, Aufbauten und Anhängern"
   },
   "293": {
-    "Titel": "Herstellung von Teilen und Zubehör für Kraftwagen"
+    "titel": "Herstellung von Teilen und Zubehör für Kraftwagen"
   },
   "301": {
-    "Titel": "Schiff- und Bootsbau"
+    "titel": "Schiff- und Bootsbau"
   },
   "302": {
-    "Titel": "Schienenfahrzeugbau"
+    "titel": "Schienenfahrzeugbau"
   },
   "303": {
-    "Titel": "Luft- und Raumfahrzeugbau"
+    "titel": "Luft- und Raumfahrzeugbau"
   },
   "304": {
-    "Titel": "Herstellung von militärischen Kampffahrzeugen"
+    "titel": "Herstellung von militärischen Kampffahrzeugen"
   },
   "309": {
-    "Titel": "Herstellung von Fahrzeugen a.n.g."
+    "titel": "Herstellung von Fahrzeugen a.n.g."
   },
   "310": {
-    "Titel": "Herstellung von Möbeln"
+    "titel": "Herstellung von Möbeln"
   },
   "321": {
-    "Titel": "Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen"
+    "titel": "Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen"
   },
   "322": {
-    "Titel": "Herstellung von Musikinstrumenten"
+    "titel": "Herstellung von Musikinstrumenten"
   },
   "323": {
-    "Titel": "Herstellung von Sportgeräten"
+    "titel": "Herstellung von Sportgeräten"
   },
   "324": {
-    "Titel": "Herstellung von Spielwaren"
+    "titel": "Herstellung von Spielwaren"
   },
   "325": {
-    "Titel": "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
+    "titel": "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
   },
   "329": {
-    "Titel": "Herstellung von Erzeugnissen a.n.g."
+    "titel": "Herstellung von Erzeugnissen a.n.g."
   },
   "331": {
-    "Titel": "Reparatur von Metallerzeugnissen, Maschinen und Ausrüstungen"
+    "titel": "Reparatur von Metallerzeugnissen, Maschinen und Ausrüstungen"
   },
   "332": {
-    "Titel": "Installation von Maschinen und Ausrüstungen a.n.g."
+    "titel": "Installation von Maschinen und Ausrüstungen a.n.g."
   },
   "351": {
-    "Titel": "Elektrizitätsversorgung"
+    "titel": "Elektrizitätsversorgung"
   },
   "352": {
-    "Titel": "Gasversorgung"
+    "titel": "Gasversorgung"
   },
   "353": {
-    "Titel": "Wärme- und Kälteversorgung"
+    "titel": "Wärme- und Kälteversorgung"
   },
   "360": {
-    "Titel": "Wasserversorgung"
+    "titel": "Wasserversorgung"
   },
   "370": {
-    "Titel": "Abwasserentsorgung"
+    "titel": "Abwasserentsorgung"
   },
   "381": {
-    "Titel": "Sammlung von Abfällen"
+    "titel": "Sammlung von Abfällen"
   },
   "382": {
-    "Titel": "Abfallbehandlung und -beseitigung"
+    "titel": "Abfallbehandlung und -beseitigung"
   },
   "383": {
-    "Titel": "Rückgewinnung"
+    "titel": "Rückgewinnung"
   },
   "390": {
-    "Titel": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
+    "titel": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
   },
   "411": {
-    "Titel": "Erschließung von Grundstücken; Bauträger"
+    "titel": "Erschließung von Grundstücken; Bauträger"
   },
   "412": {
-    "Titel": "Bau von Gebäuden"
+    "titel": "Bau von Gebäuden"
   },
   "421": {
-    "Titel": "Bau von Straßen und Bahnverkehrsstrecken"
+    "titel": "Bau von Straßen und Bahnverkehrsstrecken"
   },
   "422": {
-    "Titel": "Leitungstiefbau und Kläranlagenbau"
+    "titel": "Leitungstiefbau und Kläranlagenbau"
   },
   "429": {
-    "Titel": "Sonstiger Tiefbau"
+    "titel": "Sonstiger Tiefbau"
   },
   "431": {
-    "Titel": "Abbrucharbeiten und vorbereitende Baustellenarbeiten"
+    "titel": "Abbrucharbeiten und vorbereitende Baustellenarbeiten"
   },
   "432": {
-    "Titel": "Bauinstallation"
+    "titel": "Bauinstallation"
   },
   "433": {
-    "Titel": "Sonstiger Ausbau"
+    "titel": "Sonstiger Ausbau"
   },
   "439": {
-    "Titel": "Sonstige spezialisierte Bautätigkeiten"
+    "titel": "Sonstige spezialisierte Bautätigkeiten"
   },
   "451": {
-    "Titel": "Handel mit Kraftwagen"
+    "titel": "Handel mit Kraftwagen"
   },
   "452": {
-    "Titel": "Instandhaltung und Reparatur von Kraftwagen"
+    "titel": "Instandhaltung und Reparatur von Kraftwagen"
   },
   "453": {
-    "Titel": "Handel mit Kraftwagenteilen und -zubehör"
+    "titel": "Handel mit Kraftwagenteilen und -zubehör"
   },
   "454": {
-    "Titel": "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
+    "titel": "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
   },
   "461": {
-    "Titel": "Handelsvermittlung"
+    "titel": "Handelsvermittlung"
   },
   "462": {
-    "Titel": "Großhandel mit landwirtschaftlichen Grundstoffen und lebenden Tieren"
+    "titel": "Großhandel mit landwirtschaftlichen Grundstoffen und lebenden Tieren"
   },
   "463": {
-    "Titel": "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren"
+    "titel": "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren"
   },
   "464": {
-    "Titel": "Großhandel mit Gebrauchs- und Verbrauchsgütern"
+    "titel": "Großhandel mit Gebrauchs- und Verbrauchsgütern"
   },
   "465": {
-    "Titel": "Großhandel mit Geräten der Informations- und Kommunikationstechnik"
+    "titel": "Großhandel mit Geräten der Informations- und Kommunikationstechnik"
   },
   "466": {
-    "Titel": "Großhandel mit sonstigen Maschinen, Ausrüstungen und Zubehör"
+    "titel": "Großhandel mit sonstigen Maschinen, Ausrüstungen und Zubehör"
   },
   "467": {
-    "Titel": "Sonstiger Großhandel"
+    "titel": "Sonstiger Großhandel"
   },
   "469": {
-    "Titel": "Großhandel ohne ausgeprägten Schwerpunkt"
+    "titel": "Großhandel ohne ausgeprägten Schwerpunkt"
   },
   "471": {
-    "Titel": "Einzelhandel mit Waren verschiedener Art (in Verkaufsräumen)"
+    "titel": "Einzelhandel mit Waren verschiedener Art (in Verkaufsräumen)"
   },
   "472": {
-    "Titel": "Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren (in Verkaufsräumen)"
+    "titel": "Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren (in Verkaufsräumen)"
   },
   "473": {
-    "Titel": "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
+    "titel": "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
   },
   "474": {
-    "Titel": "Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (in Verkaufsräumen)"
+    "titel": "Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (in Verkaufsräumen)"
   },
   "475": {
-    "Titel": "Einzelhandel mit sonstigen Haushaltsgeräten, Textilien, Heimwerker- und Einrichtungsbedarf (in Verkaufsräumen)"
+    "titel": "Einzelhandel mit sonstigen Haushaltsgeräten, Textilien, Heimwerker- und Einrichtungsbedarf (in Verkaufsräumen)"
   },
   "476": {
-    "Titel": "Einzelhandel mit Verlagsprodukten, Sportausrüstungen und Spielwaren (in Verkaufsräumen)"
+    "titel": "Einzelhandel mit Verlagsprodukten, Sportausrüstungen und Spielwaren (in Verkaufsräumen)"
   },
   "477": {
-    "Titel": "Einzelhandel mit sonstigen Gütern (in Verkaufsräumen)"
+    "titel": "Einzelhandel mit sonstigen Gütern (in Verkaufsräumen)"
   },
   "478": {
-    "Titel": "Einzelhandel an Verkaufsständen und auf Märkten"
+    "titel": "Einzelhandel an Verkaufsständen und auf Märkten"
   },
   "479": {
-    "Titel": "Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten"
+    "titel": "Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten"
   },
   "491": {
-    "Titel": "Personenbeförderung im Eisenbahnfernverkehr"
+    "titel": "Personenbeförderung im Eisenbahnfernverkehr"
   },
   "492": {
-    "Titel": "Güterbeförderung im Eisenbahnverkehr"
+    "titel": "Güterbeförderung im Eisenbahnverkehr"
   },
   "493": {
-    "Titel": "Sonstige Personenbeförderung im Landverkehr"
+    "titel": "Sonstige Personenbeförderung im Landverkehr"
   },
   "494": {
-    "Titel": "Güterbeförderung im Straßenverkehr, Umzugstransporte"
+    "titel": "Güterbeförderung im Straßenverkehr, Umzugstransporte"
   },
   "495": {
-    "Titel": "Transport in Rohrfernleitungen"
+    "titel": "Transport in Rohrfernleitungen"
   },
   "501": {
-    "Titel": "Personenbeförderung in der See- und Küstenschifffahrt"
+    "titel": "Personenbeförderung in der See- und Küstenschifffahrt"
   },
   "502": {
-    "Titel": "Güterbeförderung in der See- und Küstenschifffahrt"
+    "titel": "Güterbeförderung in der See- und Küstenschifffahrt"
   },
   "503": {
-    "Titel": "Personenbeförderung in der Binnenschifffahrt"
+    "titel": "Personenbeförderung in der Binnenschifffahrt"
   },
   "504": {
-    "Titel": "Güterbeförderung in der Binnenschifffahrt"
+    "titel": "Güterbeförderung in der Binnenschifffahrt"
   },
   "511": {
-    "Titel": "Personenbeförderung in der Luftfahrt"
+    "titel": "Personenbeförderung in der Luftfahrt"
   },
   "512": {
-    "Titel": "Güterbeförderung in der Luftfahrt und Raumtransport"
+    "titel": "Güterbeförderung in der Luftfahrt und Raumtransport"
   },
   "521": {
-    "Titel": "Lagerei"
+    "titel": "Lagerei"
   },
   "522": {
-    "Titel": "Erbringung von sonstigen Dienstleistungen für den Verkehr"
+    "titel": "Erbringung von sonstigen Dienstleistungen für den Verkehr"
   },
   "531": {
-    "Titel": "Postdienste von Universaldienstleistungsanbietern"
+    "titel": "Postdienste von Universaldienstleistungsanbietern"
   },
   "532": {
-    "Titel": "Sonstige Post-, Kurier- und Expressdienste"
+    "titel": "Sonstige Post-, Kurier- und Expressdienste"
   },
   "551": {
-    "Titel": "Hotels, Gasthöfe und Pensionen"
+    "titel": "Hotels, Gasthöfe und Pensionen"
   },
   "552": {
-    "Titel": "Ferienunterkünfte und ähnliche Beherbergungsstätten"
+    "titel": "Ferienunterkünfte und ähnliche Beherbergungsstätten"
   },
   "553": {
-    "Titel": "Campingplätze"
+    "titel": "Campingplätze"
   },
   "559": {
-    "Titel": "Sonstige Beherbergungsstätten"
+    "titel": "Sonstige Beherbergungsstätten"
   },
   "561": {
-    "Titel": "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä."
+    "titel": "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä."
   },
   "562": {
-    "Titel": "Caterer und Erbringung sonstiger Verpflegungsdienstleistungen"
+    "titel": "Caterer und Erbringung sonstiger Verpflegungsdienstleistungen"
   },
   "563": {
-    "Titel": "Ausschank von Getränken"
+    "titel": "Ausschank von Getränken"
   },
   "581": {
-    "Titel": "Verlegen von Büchern und Zeitschriften; sonstiges Verlagswesen (ohne Software)"
+    "titel": "Verlegen von Büchern und Zeitschriften; sonstiges Verlagswesen (ohne Software)"
   },
   "582": {
-    "Titel": "Verlegen von Software"
+    "titel": "Verlegen von Software"
   },
   "591": {
-    "Titel": "Herstellung von Filmen und Fernsehprogrammen, deren Verleih und Vertrieb, Kinos"
+    "titel": "Herstellung von Filmen und Fernsehprogrammen, deren Verleih und Vertrieb, Kinos"
   },
   "592": {
-    "Titel": "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
+    "titel": "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
   },
   "601": {
-    "Titel": "Hörfunkveranstalter"
+    "titel": "Hörfunkveranstalter"
   },
   "602": {
-    "Titel": "Fernsehveranstalter"
+    "titel": "Fernsehveranstalter"
   },
   "611": {
-    "Titel": "Leitungsgebundene Telekommunikation"
+    "titel": "Leitungsgebundene Telekommunikation"
   },
   "612": {
-    "Titel": "Drahtlose Telekommunikation"
+    "titel": "Drahtlose Telekommunikation"
   },
   "613": {
-    "Titel": "Satellitentelekommunikation"
+    "titel": "Satellitentelekommunikation"
   },
   "619": {
-    "Titel": "Sonstige Telekommunikation"
+    "titel": "Sonstige Telekommunikation"
   },
   "620": {
-    "Titel": "Erbringung von Dienstleistungen der Informationstechnologie"
+    "titel": "Erbringung von Dienstleistungen der Informationstechnologie"
   },
   "631": {
-    "Titel": "Datenverarbeitung, Hosting und damit verbundene Tätigkeiten; Webportale"
+    "titel": "Datenverarbeitung, Hosting und damit verbundene Tätigkeiten; Webportale"
   },
   "639": {
-    "Titel": "Erbringung von sonstigen Informationsdienstleistungen"
+    "titel": "Erbringung von sonstigen Informationsdienstleistungen"
   },
   "641": {
-    "Titel": "Zentralbanken und Kreditinstitute"
+    "titel": "Zentralbanken und Kreditinstitute"
   },
   "642": {
-    "Titel": "Beteiligungsgesellschaften"
+    "titel": "Beteiligungsgesellschaften"
   },
   "643": {
-    "Titel": "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
+    "titel": "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
   },
   "649": {
-    "Titel": "Sonstige Finanzierungsinstitutionen"
+    "titel": "Sonstige Finanzierungsinstitutionen"
   },
   "651": {
-    "Titel": "Versicherungen"
+    "titel": "Versicherungen"
   },
   "652": {
-    "Titel": "Rückversicherungen"
+    "titel": "Rückversicherungen"
   },
   "653": {
-    "Titel": "Pensionskassen und Pensionsfonds"
+    "titel": "Pensionskassen und Pensionsfonds"
   },
   "661": {
-    "Titel": "Mit Finanzdienstleistungen verbundene Tätigkeiten"
+    "titel": "Mit Finanzdienstleistungen verbundene Tätigkeiten"
   },
   "662": {
-    "Titel": "Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten"
+    "titel": "Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten"
   },
   "663": {
-    "Titel": "Fondsmanagement"
+    "titel": "Fondsmanagement"
   },
   "681": {
-    "Titel": "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
+    "titel": "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
   },
   "682": {
-    "Titel": "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
+    "titel": "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
   },
   "683": {
-    "Titel": "Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    "titel": "Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
   },
   "691": {
-    "Titel": "Rechtsberatung"
+    "titel": "Rechtsberatung"
   },
   "692": {
-    "Titel": "Wirtschaftsprüfung und Steuerberatung; Buchführung"
+    "titel": "Wirtschaftsprüfung und Steuerberatung; Buchführung"
   },
   "701": {
-    "Titel": "Verwaltung und Führung von Unternehmen und Betrieben"
+    "titel": "Verwaltung und Führung von Unternehmen und Betrieben"
   },
   "702": {
-    "Titel": "Public-Relations- und Unternehmensberatung"
+    "titel": "Public-Relations- und Unternehmensberatung"
   },
   "711": {
-    "Titel": "Architektur- und Ingenieurbüros"
+    "titel": "Architektur- und Ingenieurbüros"
   },
   "712": {
-    "Titel": "Technische, physikalische und chemische Untersuchung"
+    "titel": "Technische, physikalische und chemische Untersuchung"
   },
   "721": {
-    "Titel": "Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
+    "titel": "Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
   },
   "722": {
-    "Titel": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
+    "titel": "Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften"
   },
   "731": {
-    "Titel": "Werbung"
+    "titel": "Werbung"
   },
   "732": {
-    "Titel": "Markt- und Meinungsforschung"
+    "titel": "Markt- und Meinungsforschung"
   },
   "741": {
-    "Titel": "Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design"
+    "titel": "Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design"
   },
   "742": {
-    "Titel": "Fotografie und Fotolabors"
+    "titel": "Fotografie und Fotolabors"
   },
   "743": {
-    "Titel": "Übersetzen und Dolmetschen"
+    "titel": "Übersetzen und Dolmetschen"
   },
   "749": {
-    "Titel": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g."
+    "titel": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g."
   },
   "750": {
-    "Titel": "Veterinärwesen"
+    "titel": "Veterinärwesen"
   },
   "771": {
-    "Titel": "Vermietung von Kraftwagen"
+    "titel": "Vermietung von Kraftwagen"
   },
   "772": {
-    "Titel": "Vermietung von Gebrauchsgütern"
+    "titel": "Vermietung von Gebrauchsgütern"
   },
   "773": {
-    "Titel": "Vermietung von Maschinen, Geräten und sonstigen beweglichen Sachen"
+    "titel": "Vermietung von Maschinen, Geräten und sonstigen beweglichen Sachen"
   },
   "774": {
-    "Titel": "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
+    "titel": "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
   },
   "781": {
-    "Titel": "Vermittlung von Arbeitskräften"
+    "titel": "Vermittlung von Arbeitskräften"
   },
   "782": {
-    "Titel": "Befristete Überlassung von Arbeitskräften"
+    "titel": "Befristete Überlassung von Arbeitskräften"
   },
   "783": {
-    "Titel": "Sonstige Überlassung von Arbeitskräften"
+    "titel": "Sonstige Überlassung von Arbeitskräften"
   },
   "791": {
-    "Titel": "Reisebüros und Reiseveranstalter"
+    "titel": "Reisebüros und Reiseveranstalter"
   },
   "799": {
-    "Titel": "Erbringung sonstiger Reservierungsdienstleistungen"
+    "titel": "Erbringung sonstiger Reservierungsdienstleistungen"
   },
   "801": {
-    "Titel": "Private Wach- und Sicherheitsdienste"
+    "titel": "Private Wach- und Sicherheitsdienste"
   },
   "802": {
-    "Titel": "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
+    "titel": "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
   },
   "803": {
-    "Titel": "Detekteien"
+    "titel": "Detekteien"
   },
   "811": {
-    "Titel": "Hausmeisterdienste"
+    "titel": "Hausmeisterdienste"
   },
   "812": {
-    "Titel": "Reinigung von Gebäuden, Straßen und Verkehrsmitteln"
+    "titel": "Reinigung von Gebäuden, Straßen und Verkehrsmitteln"
   },
   "813": {
-    "Titel": "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
+    "titel": "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
   },
   "821": {
-    "Titel": "Sekretariats- und Schreibdienste, Copy-Shops"
+    "titel": "Sekretariats- und Schreibdienste, Copy-Shops"
   },
   "822": {
-    "Titel": "Call Centers"
+    "titel": "Call Centers"
   },
   "823": {
-    "Titel": "Messe-, Ausstellungs- und Kongressveranstalter"
+    "titel": "Messe-, Ausstellungs- und Kongressveranstalter"
   },
   "829": {
-    "Titel": "Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen"
+    "titel": "Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen"
   },
   "841": {
-    "Titel": "Öffentliche Verwaltung"
+    "titel": "Öffentliche Verwaltung"
   },
   "842": {
-    "Titel": "Auswärtige Angelegenheiten, Verteidigung, Justiz, öffentliche Sicherheit und Ordnung"
+    "titel": "Auswärtige Angelegenheiten, Verteidigung, Justiz, öffentliche Sicherheit und Ordnung"
   },
   "843": {
-    "Titel": "Sozialversicherung"
+    "titel": "Sozialversicherung"
   },
   "851": {
-    "Titel": "Kindergärten und Vorschulen"
+    "titel": "Kindergärten und Vorschulen"
   },
   "852": {
-    "Titel": "Volksschulen"
+    "titel": "Volksschulen"
   },
   "853": {
-    "Titel": "Weiterführende Schulen"
+    "titel": "Weiterführende Schulen"
   },
   "854": {
-    "Titel": "Tertiärer und post-sekundärer, nicht tertiärer Unterricht"
+    "titel": "Tertiärer und post-sekundärer, nicht tertiärer Unterricht"
   },
   "855": {
-    "Titel": "Sonstiger Unterricht"
+    "titel": "Sonstiger Unterricht"
   },
   "856": {
-    "Titel": "Erbringung von Dienstleistungen für den Unterricht"
+    "titel": "Erbringung von Dienstleistungen für den Unterricht"
   },
   "861": {
-    "Titel": "Krankenhäuser"
+    "titel": "Krankenhäuser"
   },
   "862": {
-    "Titel": "Arzt- und Zahnarztpraxen"
+    "titel": "Arzt- und Zahnarztpraxen"
   },
   "869": {
-    "Titel": "Gesundheitswesen a. n. g."
+    "titel": "Gesundheitswesen a. n. g."
   },
   "871": {
-    "Titel": "Pflegeheime"
+    "titel": "Pflegeheime"
   },
   "872": {
-    "Titel": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä."
+    "titel": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä."
   },
   "873": {
-    "Titel": "Altenheime; Alten- und Behindertenwohnheime"
+    "titel": "Altenheime; Alten- und Behindertenwohnheime"
   },
   "879": {
-    "Titel": "Sonstige Heime (ohne Erholungs- und Ferienheime)"
+    "titel": "Sonstige Heime (ohne Erholungs- und Ferienheime)"
   },
   "881": {
-    "Titel": "Soziale Betreuung älterer Menschen und Behinderter"
+    "titel": "Soziale Betreuung älterer Menschen und Behinderter"
   },
   "889": {
-    "Titel": "Sonstiges Sozialwesen (ohne Heime)"
+    "titel": "Sonstiges Sozialwesen (ohne Heime)"
   },
   "900": {
-    "Titel": "Kreative, künstlerische und unterhaltende Tätigkeiten"
+    "titel": "Kreative, künstlerische und unterhaltende Tätigkeiten"
   },
   "910": {
-    "Titel": "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
+    "titel": "Bibliotheken, Archive, Museen, botanische und zoologische Gärten"
   },
   "920": {
-    "Titel": "Spiel-, Wett- und Lotteriewesen"
+    "titel": "Spiel-, Wett- und Lotteriewesen"
   },
   "931": {
-    "Titel": "Erbringung von Dienstleistungen des Sports"
+    "titel": "Erbringung von Dienstleistungen des Sports"
   },
   "932": {
-    "Titel": "Erbringung von sonstigen Dienstleistungen der Unterhaltung und der Erholung"
+    "titel": "Erbringung von sonstigen Dienstleistungen der Unterhaltung und der Erholung"
   },
   "941": {
-    "Titel": "Wirtschafts- und Arbeitgeberverbände, Berufsorganisationen"
+    "titel": "Wirtschafts- und Arbeitgeberverbände, Berufsorganisationen"
   },
   "942": {
-    "Titel": "Arbeitnehmervereinigungen"
+    "titel": "Arbeitnehmervereinigungen"
   },
   "949": {
-    "Titel": "Kirchliche Vereinigungen; politische Parteien sowie sonstige Interessenvertretungen und Vereinigungen a. n. g."
+    "titel": "Kirchliche Vereinigungen; politische Parteien sowie sonstige Interessenvertretungen und Vereinigungen a. n. g."
   },
   "951": {
-    "Titel": "Reparatur von Datenverarbeitungs- und Telekommunikationsgeräten"
+    "titel": "Reparatur von Datenverarbeitungs- und Telekommunikationsgeräten"
   },
   "952": {
-    "Titel": "Reparatur von Gebrauchsgütern"
+    "titel": "Reparatur von Gebrauchsgütern"
   },
   "960": {
-    "Titel": "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
+    "titel": "Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
   },
   "970": {
-    "Titel": "Private Haushalte mit Hauspersonal"
+    "titel": "Private Haushalte mit Hauspersonal"
   },
   "981": {
-    "Titel": "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    "titel": "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
   },
   "982": {
-    "Titel": "Erbringungen von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    "titel": "Erbringungen von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
   },
   "990": {
-    "Titel": "Exterritoriale Organisationen und Körperschaften"
+    "titel": "Exterritoriale Organisationen und Körperschaften"
   }
 }
