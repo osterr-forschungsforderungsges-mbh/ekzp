@@ -5,8 +5,8 @@ email: foerderservice@ffg.at
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Hier entsteht die Website für die Energiekostenpauschale, eine Förderung des Bundesministeriums
-  für Arbeit und Wirtschaft für Kleinst- und Einzelunternehmen
+  Hier entsteht die Website für die Energiekostenpauschale, eine Förderung der [Österreichischen Forschungsförderungsgesellschaft](https://ffg.at) im Auftrag des [Bundesministeriums
+  für Arbeit und Wirtschaft](https://www.bmaw.gv.at) für Kleinst- und Einzelunternehmen
 
 
 # Build settings

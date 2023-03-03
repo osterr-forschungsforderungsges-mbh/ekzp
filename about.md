@@ -1,0 +1,1 @@
+siehe <https://www.ffg.at/disclaimer>
