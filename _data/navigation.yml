@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Voranmeldung
+  link: /interesse2.html
+- name: Impressum
+  link: /about/
